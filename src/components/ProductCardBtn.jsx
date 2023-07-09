@@ -1,0 +1,1 @@
+export const ProductCardBtn=({productId,handleProductSelect})=><button onClick={()=>handleProductSelect(productId)} className="outline">Seç..</button>
